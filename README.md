@@ -17,11 +17,17 @@ This repository contains multiple portfolio projects built with HTML & CSS to de
 📂 Project Structure
 
 portfolio-pages/
-│── images/          # Contains all images used in the projects
-│── project1.html    # First portfolio project
-│── project2.html    # Second portfolio project
-│── style1.css       # Styles for project 1
-│── style2.css       # Styles for project 2
+
+│── images/ 
+# Contains all images used in the projects
+│── project1.html
+# First portfolio project
+│── project2.html  
+# Second portfolio project
+│── style1.css   
+# Styles for project 1
+│── style2.css 
+# Styles for project 2
 │── README.md        # Project documentation (this file)
 
 🚀 Getting Started
